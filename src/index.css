@@ -32,3 +32,8 @@ font-family: 'Poppins', sans-serif; */
   font-family: "roboto", sans-serif;
   letter-spacing: 3px;
 }
+
+.policy-container {
+  max-height: 65vh; /* Set the desired height */
+  overflow-y: auto; /* Enable vertical scrolling */
+}

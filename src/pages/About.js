@@ -3,8 +3,8 @@ import Layout from "../components/Layout/Layout";
 
 const About = () => {
   return (
-    <Layout>
-      <div className="container">
+    <Layout title={"Abouts us - Vtech Ecomm"}>
+      <div className="container about-container">
         <h1 className="text-center">Welcome to Vtech Ecomm</h1>
         <p>
           At Vtech Ecomm, we strive to provide the best online shopping

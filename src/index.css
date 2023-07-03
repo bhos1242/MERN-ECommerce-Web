@@ -37,3 +37,12 @@ font-family: 'Poppins', sans-serif; */
   max-height: 65vh; /* Set the desired height */
   overflow-y: auto; /* Enable vertical scrolling */
 }
+
+.about-container {
+  max-height: 65vh;
+  overflow-y: auto;
+}
+
+.main {
+  background-color: antiquewhite;
+}
